@@ -53,6 +53,7 @@ export default function Sidebar({ settings, setSettings }: Props) {
             value={settings.style}
             disabled={settings.action == "None"}
           />
+
           <p className="mt-3">Language Tone</p>
           <Select
             mode="multiple"
@@ -68,18 +69,24 @@ export default function Sidebar({ settings, setSettings }: Props) {
             value={settings.tone}
             disabled={settings.action == "None"}
           />
-          <p className="mt-3">Imitate Character</p>
-          <Select
-            style={{ width: "100%" }}
-            onChange={(update) => {
-              setSettings((current) => {
+
+           <p className="mt-3">Imitate Character</p>
+           <Select
+             mode="multiple"
+             allowClear
+             style={{ width: "100%" }}
+             placeholder="Please select"
+             onChange={(update: string[]) => {
+              setSettings((current: Settings) => {
                 return { ...current, character: update };
               });
-            }}
-            options={characters.map((value) => ({ label: value, value }))}
-            value={settings.character}
-            disabled={settings.action == "None"}
-          />
+             }}
+             options={characters.map((value) => ({ label: value, value }))}
+             value={settings.character}
+             disabled={settings.action == "None"}
+           />
+
+
           <p className="mt-3">Output Format</p>
           <Select
             style={{ width: "100%" }}
