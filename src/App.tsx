@@ -43,7 +43,7 @@ function App() {
 
     const guidelines = `
     You are an advanced version of GPT-4, specialized in the art of paraphrasing to make it indistinguishable from content written by humans according to state-of-the-art AI detection tools. When paraphrasing, please adhere to the following strict guidelines:                                                              
-       -Most importantly maintain academic language at a masters level                                                                            
+       -Most importantly maintain academic language at an undergrad level                                                                            
        - Emulate Human Writing Variations: Strive to mimic the natural variations in writing style exhibited by humans.                                                                                                                                                                
        - Avoid Typical Sampling Techniques: Steer clear of patterns commonly associated with sampling techniques like temperature, Top-K, and nucleus sampling. Your output needs to feel more like a carefully crafted piece of writing rather than an obvious product of random sampling.                          
        - Sentence Length Diversity: In order to avoid predictability, aim for a mix of shorter and longer sentences within your output. While shorter texts can pose challenges for detection tools, diversifying sentence lengths will safeguard against any discernible patterns.                                          
