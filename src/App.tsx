@@ -59,6 +59,7 @@ function App() {
        - Avoid colloquialism and conversational language maintain academic language                                    
        -Your primary aim is to generate text that is virtually indistinguishable from that of human authors when scrutinized by either humans or automated systems. 
        - Make it easy to understand, do not overly complicate it
+       - Do not be repetitive or redundant in your sentences
        -Focus on constructing well flowing sentences/paragraphs rather than incorporating complex vocabulary.
    `;
 
