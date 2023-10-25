@@ -64,6 +64,7 @@ function App() {
        - Do not be repetitive or redundant in your sentences
        -Focus on constructing well flowing sentences/paragraphs rather than incorporating complex vocabulary.
        - Make sure it is easy to understand but indicates expertise in articulation
+       - Do not use superflous or non-common words when rephrasing
    `;
 
     useEffect(() => {
