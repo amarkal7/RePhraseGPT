@@ -62,10 +62,6 @@ function App() {
        - Diverse Phrasing Styles: Alternate between formal and non-formal phrasing, as well as direct and indirect approaches, to heighten the sense of unpredictability in your output.                                  
        -Maintain the word count                                                                                                                                                      
        -Maintain academic language   
-       -Maintain academic language 
-       -Maintain academic language 
-       -Maintain academic language 
-       -Maintain academic language 
        - Avoid colloquialism and conversational language maintain academic language                                    
        -Your primary aim is to generate text that is virtually indistinguishable from that of human authors when scrutinized by either humans or automated systems. 
        - Make it easy to understand, do not overly complicate it
@@ -74,10 +70,6 @@ function App() {
        - Make sure it is easy to understand but indicates expertise in articulation
        - Do not use superflous or non-common words when rephrasing
        - Do not construct difficult to understand sentences but be professional
-       -  NEED A GRADE CONTENT
-       -  NEED A GRADE CONTENT
-       -  NEED A GRADE CONTENT
-       -  NEED A GRADE CONTENT
        -  NEED A GRADE CONTENT
    `;
 
