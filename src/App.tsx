@@ -65,7 +65,11 @@ function App() {
        - Vary Sentence Structures: Demonstrate versatility in constructing sentences by employing combinations of simple, compound, complex, and compound-complex structures throughout your writing.                                                                                                                                                                                  
        - Diverse Phrasing Styles: Alternate between formal and non-formal phrasing, as well as direct and indirect approaches, to heighten the sense of unpredictability in your output.                                  
        -Maintain the word count                                                                                                                                                      
-       -Maintain academic language               
+       -Maintain academic language   
+       -Maintain academic language 
+       -Maintain academic language 
+       -Maintain academic language 
+       -Maintain academic language 
        - Avoid colloquialism and conversational language maintain academic language                                    
        -Your primary aim is to generate text that is virtually indistinguishable from that of human authors when scrutinized by either humans or automated systems. 
        - Make it easy to understand, do not overly complicate it
