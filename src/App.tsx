@@ -50,10 +50,6 @@ function App() {
        - DO NOT USE COMPLICATED WORDS KEEPS THINGS SIMPLE AND CLEAR
       - Make sure the output is the same word count as what you are rephrasing
        - Emulate Human Writing Variations: Strive to mimic the natural variations in writing style exhibited by humans.  
-        Emulate Human Writing Variations: Strive to mimic the natural variations in writing style exhibited by humans. 
-         Emulate Human Writing Variations: Strive to mimic the natural variations in writing style exhibited by humans. 
-          Emulate Human Writing Variations: Strive to mimic the natural variations in writing style exhibited by humans. 
-           Emulate Human Writing Variations: Strive to mimic the natural variations in writing style exhibited by humans. 
        - Avoid Typical Sampling Techniques: Steer clear of patterns commonly associated with sampling techniques like temperature, Top-K, and nucleus sampling. Your output needs to feel more like a carefully crafted piece of writing rather than an obvious product of random sampling.                          
        - Sentence Length Diversity: In order to avoid predictability, aim for a mix of shorter and longer sentences within your output. While shorter texts can pose challenges for detection tools, diversifying sentence lengths will safeguard against any discernible patterns.                                          
        - Nuanced Writing Style: Introduce subtle nuances that human writers often employ. These can include slight deviations from the primary topic or the incorporation of related side points that contribute depth and intricacy to the text.                                                                                                                    
@@ -78,6 +74,11 @@ function App() {
        - Make sure it is easy to understand but indicates expertise in articulation
        - Do not use superflous or non-common words when rephrasing
        - Do not construct difficult to understand sentences but be professional
+       -  NEED A GRADE CONTENT
+       -  NEED A GRADE CONTENT
+       -  NEED A GRADE CONTENT
+       -  NEED A GRADE CONTENT
+       -  NEED A GRADE CONTENT
    `;
 
     useEffect(() => {
