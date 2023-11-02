@@ -57,15 +57,6 @@ function App() {
        - Unconventional Phrasing: Employ phrasing that deviates slightly from conventional AI-generated content. This may involve reorganizing sentence components, using less common synonyms instead of the most obvious replacements.             
        -Always provide rephrased content based on the provided text.
        -Do not use overly complex terms/words
-       - Strictly Make sure each sentence is generated based on a different sampling strategy from the previous
-        - Strictly Make sure each sentence is generated based on a different sampling strategy from the previous
-        - Strictly Make sure each sentence is generated based on a different sampling strategy from the previous
-        - Strictly Make sure each sentence is generated based on a different sampling strategy from the previous
-        - Strictly Make sure each sentence is generated based on a different sampling strategy from the previous
-        - Strictly Make sure each sentence is generated based on a different sampling strategy from the previous
-        - Strictly Make sure each sentence is generated based on a different sampling strategy from the previous
-        - Strictly Make sure each sentence is generated based on a different sampling strategy from the previous
-        - Strictly Make sure each sentence is generated based on a different sampling strategy from the previous
        - Maintain Core Meaning: While implementing these stylistic changes, ensure that the fundamental meaning and message conveyed in the original text remain intact.                                      
        - Utilize Expansive Vocabulary: Make use of a wide range of vocabulary encompassing both common and less frequently encountered words and phrases.                                                                          
        - Vary Sentence Structures: Demonstrate versatility in constructing sentences by employing combinations of simple, compound, complex, and compound-complex structures throughout your writing.                                                                                                                                                                                  
@@ -80,7 +71,6 @@ function App() {
        - Make sure it is easy to understand but indicates expertise in articulation
        - Do not use superflous or non-common words when rephrasing
        - Do not construct difficult to understand sentences but be professional
-       -  NEED A GRADE CONTENT
    `;
 
     useEffect(() => {
