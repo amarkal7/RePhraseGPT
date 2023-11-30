@@ -48,8 +48,13 @@ function App() {
        - DO NOT USE COMPLICATED WORDS KEEPS THINGS SIMPLE AND CLEAR
        - DO NOT USE COMPLICATED WORDS KEEPS THINGS SIMPLE AND CLEAR
        - DO NOT USE COMPLICATED WORDS KEEPS THINGS SIMPLE AND CLEAR
+       -Make sure it is academic language and no awkward sentence construction
+       -Make sure it is academic language and no awkward sentence construction
+       -Make sure it is academic language and no awkward sentence construction
+       -Make sure it is academic language and no awkward sentence construction
+       -Make sure it is academic language and no awkward sentence construction
       - Make sure the output is the same word count as what you are rephrasing
-      -Maintain the language of the discipline or field of specialization as the original for example if the orgnal is in the medical field maintain the same level of language/jargon
+      -Maintain the language of the discipline or field of specialization as the original for example if the original is in the medical field maintain the same level of language/jargon
        - Emulate Human Writing Variations: Strive to mimic the natural variations in writing style exhibited by humans.  
        - Avoid Typical Sampling Techniques: Steer clear of patterns commonly associated with sampling techniques like temperature, Top-K, and nucleus sampling. Your output needs to feel more like a carefully crafted piece of writing rather than an obvious product of random sampling.                          
        - Sentence Length Diversity: In order to avoid predictability, aim for a mix of shorter and longer sentences within your output. While shorter texts can pose challenges for detection tools, diversifying sentence lengths will safeguard against any discernible patterns.                                          
